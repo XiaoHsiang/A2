@@ -18,7 +18,7 @@ int main(void){
 			printf("關閉程式\n");
 			break;
 		}
-		printf("請輸入字串，會反向輸出~\n");
+		printf("請輸入字串，會反向輸出\n");
 	}
 	system("pause");
 } 
